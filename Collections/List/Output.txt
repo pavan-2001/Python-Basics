@@ -1,0 +1,5 @@
+Before adding new elements :  ['Haryana', 'Telangana', 'Jammu and Kashmir']
+
+After adding new elements :  ['Haryana', 'Madhya pradesh', 'Telangana', 'Jammu and Kashmir', 'Rajasthan']
+
+The size of the list is : 5
