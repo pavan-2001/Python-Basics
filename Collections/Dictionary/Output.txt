@@ -1,0 +1,11 @@
+Before ading new key-value pairs :  {'State_1': 'Hydrabad', 'State_2': 'Telangana'}
+
+After adding new key-value pairs :  {'State_1': 'Hydrabad', 'State_2': 'Telangana', 'State_3': 'Maharashtra', 'State_4': 'Rajasthan'}
+
+All key-value pairs
+('State_1', 'Hydrabad')
+('State_2', 'Telangana')
+('State_3', 'Maharashtra')
+('State_4', 'Rajasthan')
+
+The size of the Dictionary is :  4
