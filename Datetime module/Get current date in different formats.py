@@ -14,6 +14,6 @@ Output
 Format (dd/mm/yy) :  28/08/20
 Format (mm/dd/yyyy) :  08/28/2020
 Format (Textual month/dd/yyyy) :  August-28-2020
-Format (Month abrev. ,dd,yyyy) :  Aug-28-2020
+Format (Month abrev.-dd-yyyy) :  Aug-28-2020
 
 """
