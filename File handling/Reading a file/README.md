@@ -1,3 +1,5 @@
+# Reading a file
+
 **If you want to read a file from the same location you need not mention the path of the file.**
 
 **Else you have to mention the path of the file and in the place of single forward slash you have to insert double forwad slash**
