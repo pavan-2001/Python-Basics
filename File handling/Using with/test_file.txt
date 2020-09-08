@@ -1,0 +1,2 @@
+You have opened the file using with which automatically closes the file for you !
+Now you don't have to worry about closing the file
